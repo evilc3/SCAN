@@ -9,5 +9,6 @@ path to trained pretext-model : https://drive.google.com/file/d/1ZqVJy8ppBVW8oX5
 
 The model uses the same config as cifar10 as they have the same number of classes.   
 
-To Do. 
+## To Do. 
+
 Trying different augmentations. 
